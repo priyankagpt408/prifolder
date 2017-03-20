@@ -7,6 +7,7 @@
 </body>
 <script>
   $(function() {
+    alert("Test");
     $('#currency').maskMoney({thousands:'', decimal:'.', allowZero:true, suffix: ' $'});
   })
 </script>
