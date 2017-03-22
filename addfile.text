@@ -1,1 +1,40 @@
-Hello Add this file
+1) Project Name: http://allinonyou.com
+
+Description: This project is based on buddypress. I am worked on its "Post an opprtunity" and "Profile" page.
+I have added a two section in "Post an opprtunity" page for add the detail of there "Events" and "Opprtunities". When they submit these details then we have able to see these details on there profile page of login user. I have also added a some fields on "Registration" and "Profile" page.
+
+2) Project Name: http://campballibay.com/
+
+Description: In this project I have used "Ultimate membership pro" plugin. In this all registered user shown on "Staff Directory" page. On "Staff Directory" page I have showing image, first name, last name, title , department and address of all registered user. 
+
+User description is shown when I click on the image of user. I have also added two search box (Search by Department and Search by Keyword) on the "Staff Directory" page for searching the user by there department and keywords.
+
+3) Project Name: https://averyne.com
+
+Description: In this project there are the details of member. One company have more that one manager. There are different role of user that is visitor, subscriber and editor. Each user have company id. Visitor only able to searching the data , editor able to search and modify the records on manager and subscriber able to add , search and modify a new manager with different roles. 
+
+In this project I am worked on added or removed some more fields on "Add Data" page. I have also used the masking in phone number , amount and date. Created a "Modify Record" page in this page the login user view/edit all the details of there manager. He also able to search the details by the SSN number. I have also made changes in "search" page and "Adverse action letter" page. I have also made changes in designing of "Adverse action letter" page at the time of printing. 
+
+In this project I have mostly used the mysql query for insert, fetch, update the data of manager.
+
+4) Project Name: professionalchats.com, orthochats.com, homeservicechats.com, hearingchats.com and dentistchats.com
+
+Description: These all sites are same
+
+In these sites I have worked on layer slider. Made these sites responsive and also created a new site professionalchats.com same as orthochats.com
+
+5) Project Name: http://drcusma.com/
+
+Description: This project is provide vision and eye care to our patients.
+
+In these sites I have worked added some posts , made changes in slider, added or removed the list of doctors, added a "facebook like page" plugin. 
+
+6) Project Name: http://jeitoconsulting.com/hub 
+
+Description: I have worked on "ultimate member" plugin. I have created a registration form and sign in form. In this project I have added a custom field "Featured Image" in custom category and custom post "Associates". 
+If user is logged in then he able to viewing the contact details of all associates member in a popup. If user is not logged in then there is an option for "register" or "sign in" in popup.
+
+I have also added an option for download a pdf after registartion. I have added a pdf folder in encoded format for make it secure, it will be decoded at the time of downloading.
+
+
+I have also worked on there main site http://jeitoconsulting.com/. In this site I have added an option on "event" page for viewing the location map in popup. I have also changed the content and images on there sub sites "Fast track" and "Culture".
